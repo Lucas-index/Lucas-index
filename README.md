@@ -15,9 +15,9 @@
 
 <div align="center">
 <b align="">Sobre mim:</b>
-<p align=""> Estudante de progração front-end no senai e fundação bradesco</p>
+<p align=""> Estudante de progração front-end no senai e na fundação bradesco</p>
 <p align=""></p>
-<p align=""> Eu adoro a area de TI e programação tenho facil aprendizado e a linguagem que eu mais sei é o html </p>
+<p align=""> Eu adoro a area de TI e programação, tenho facil aprendizado e a linguagem que eu mais sei é o html </p>
  
 
 <b> My Stack: </b>
@@ -28,6 +28,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50" alt="JavaScript">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" width="50" alt="azure">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="50" alt="css">
+  <img src="https://raw.githubusercontent.com/Lucas-index/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="50" alt="git">
+  <img src="https://raw.githubusercontent.com/Lucas-index/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Htmx-Dark.svg" width="50" alt="code">
+  <img src="https://raw.githubusercontent.com/Lucas-index/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50" alt="VSD">
 </table>
 
 <table align="center" width="100%" height="100%" >
