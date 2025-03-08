@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Lucas-index.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://img1.picmix.com/output/stamp/normal/2/8/5/7/2607582_d33b0.png">
+<img src="https://img1.picmix.com/output/stamp/normal/2/8/5/7/2607582_d33b0.png" width="300">
 </div>
 
 
