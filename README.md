@@ -11,9 +11,9 @@
 
 <div align="center">
 <b align="">Sobre mim:</b>
-<p align="">I Programming at the São Caetano do Sul Senai.</p>
+<p align=""> Estudante de progração front-end no sesai e fundação bradesco</p>
 <p align=""></p>
-<p align="">I like everything related to technology and I am always connected to issues in this area 🤝</p>
+<p align=""> Eu adoro a area de TI e programação tenho facil aprendizado e a linguagem que eu mais sei é o html e o javascipt</p>
  
 
 <b> My Stack: </b>
