@@ -14,10 +14,6 @@
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 <div align="center">
-<b align="">Sobre mim:</b>
-<p align=""> Estudante de progração front-end no senai e na fundação bradesco</p>
-<p align=""></p>
-<p align=""> Eu adoro a area de TI e programação, tenho facil aprendizado e a linguagem que eu mais sei é o html </p>
  
 
 <b> My Stack: </b>
