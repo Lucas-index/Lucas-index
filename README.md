@@ -19,7 +19,6 @@
 <b> My Stack: </b>
 <table>
   <a href="https://github.com/Lucas-index">
-  <img src="http://www.w3.org/2000/svg" width="50" alt="React Native">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="50" alt="HTML5">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50" alt="JavaScript">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" width="50" alt="azure">
